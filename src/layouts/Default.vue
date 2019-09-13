@@ -33,8 +33,8 @@ body {
 }
 
 .layout {
-  max-width: 760px;
-  margin: 0 auto;
+  max-width: 1200px;
+  margin: 0 200px;
   padding-left: 20px;
   padding-right: 20px;
 }
