@@ -36,7 +36,7 @@
         <!-- Card 2  -->
         <div class="max-w-sm rounded overflow-hidden shadow-lg animated fadeInRight m-2">
           <img
-            class="w-full h-auto"
+            class="w-full h-129.44px"
             src="https://images.unsplash.com/photo-1453785675141-67637e2d4b5c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1636&q=80"
             alt="Trees in sunset"
           />
